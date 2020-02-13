@@ -34,20 +34,21 @@ By rebuild this app, users can get better experience in using this app, and new 
 ![Transition_2.gif](screenshots/Transition_2.gif)
 
 ## 截图 ScreenShots
-<div align="center">
-    <img width="280" src="screenshots/Screenshot_1.jpg"/>
-    <img width="280" src="screenshots/Screenshot_2.jpg"/>
-    <img width="280" src="screenshots/Screenshot_3.jpg"/>
-    <img width="280" src="screenshots/Screenshot_4.jpg"/>
-    <img width="280" src="screenshots/Screenshot_5.jpg"/>
-    <img width="280" src="screenshots/Screenshot_6.jpg"/>
-    <img width="280" src="screenshots/Screenshot_7.jpg"/>
-    <img width="280" src="screenshots/Screenshot_8.jpg"/>
-    <img width="280" src="screenshots/Screenshot_9.jpg"/>
-    <img width="280" src="screenshots/Screenshot_10.jpg"/>
-    <img width="280" src="screenshots/Screenshot_11.jpg"/>
-    <img width="280" src="screenshots/Screenshot_12.jpg"/>
-    <img width="280" src="screenshots/Screenshot_13.jpg"/>
-    <img width="280" src="screenshots/Screenshot_14.jpg"/>
-    <img width="280" src="screenshots/Screenshot_15.jpg"/>
-</div>
+
+-|-|-
+[1][]|[2][]|[3][]
+![1](screenshots/Screenshot_1.jpg)
+![2](screenshots/Screenshot_2.jpg)
+![3](screenshots/Screenshot_3.jpg)
+![4](screenshots/Screenshot_4.jpg)
+![5](screenshots/Screenshot_5.jpg)
+![6](screenshots/Screenshot_6.jpg)
+![7](screenshots/Screenshot_7.jpg)
+![8](screenshots/Screenshot_8.jpg)
+![9](screenshots/Screenshot_9.jpg)
+![10](screenshots/Screenshot_10.jpg)
+![11](screenshots/Screenshot_11.jpg)
+![12](screenshots/Screenshot_12.jpg)
+![13](screenshots/Screenshot_13.jpg)
+![14](screenshots/Screenshot_14.jpg)
+![15](screenshots/Screenshot_15.jpg)
